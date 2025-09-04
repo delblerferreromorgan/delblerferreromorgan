@@ -128,7 +128,20 @@ gantt
 
 ### 📌 Featured Projects
 
-### 📌 Featured Projects
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 30px 0;">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=delblerferreromorgan&theme=blueberry&hide_border=true&locale=en)](https://git.io/streak-stats)
+
+<div style="background: #f8f9fa; padding: 15px; border-radius: 10px; width: 100%;">
+<h3 style="margin-top: 0; color: #2c3e50;">Notable Projects</h3>
+<ul>
+  <li><strong>Business Automation System</strong> - Python, Flask, MySQL</li>
+  <li><strong>Data Analysis Platform</strong> - Pandas, Matplotlib, Streamlit</li>
+  <li><strong>Financial Management Web App</strong> - React, Node.js, MongoDB</li>
+</ul>
+</div>
+
+</div>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
