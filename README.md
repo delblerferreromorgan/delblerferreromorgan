@@ -157,7 +157,10 @@ gantt
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=delblerferreromorgan&theme=react&hide_border=true&area=true" height="240em"/>
 
 </div>
+</ul>
+</div>
 
+</div>
 ---
 
 ### 🌐 Professional Contact
