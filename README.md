@@ -151,9 +151,9 @@ gantt
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=delblerferreira&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delblerferreira&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delblerferreromorgan&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=delblerferreira&theme=react&hide_border=true&area=true" height="240em"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=delblerferreromorgan&theme=react&hide_border=true&area=true" height="240em"/>
 
 </div>
 
@@ -164,7 +164,7 @@ gantt
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin: 30px 0;">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/delbler-ferreira-consultor)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/delbler_ferreira)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/delblerferreromorgan)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@delblerferreira9)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:delblerferreira9@gmail.com)
 [![Beacons](https://img.shields.io/badge/Portfolio-6A52FF?style=for-the-badge&logo=beacons&logoColor=white)](https://beacons.ai/delblerferreira)
