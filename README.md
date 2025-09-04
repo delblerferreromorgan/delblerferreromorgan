@@ -128,8 +128,6 @@ gantt
 
 ### 📌 Featured Projects
 
-### 📌 Featured Projects
-
 <p align="center">
   <a href="https://github.com/delblerferreromorgan/business-automation-system">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=delblerferreromorgan&repo=business-automation-system&theme=blueberry" />
