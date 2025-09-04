@@ -129,6 +129,7 @@ gantt
 ### 📌 Featured Projects
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 30px 0;">
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=delblerferreromorgan&theme=blueberry&hide_border=true&locale=en)](https://git.io/streak-stats)
 
 <div style="background: #f8f9fa; padding: 15px; border-radius: 10px; width: 100%;">
