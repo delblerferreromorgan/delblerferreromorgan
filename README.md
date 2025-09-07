@@ -154,7 +154,7 @@ gantt
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=delblerferreira&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=delblerferreromorgan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delblerferreromorgan&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 
