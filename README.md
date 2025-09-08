@@ -196,6 +196,7 @@ gantt
     section Community
     1k GitHub Followers        :         des4, 2025-07-01, 180d
 
+```
 ---
 
 <details>
