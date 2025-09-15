@@ -66,6 +66,10 @@ gantt
 
     section Software Engineering
     Software Engineering        :active, software, 2025-03-10, 2028-04-10
+
+    section Electrical and Electronics Engineering
+    Electrical and Electronics Engineering        :active, software, 2025-03-10, 2028-04-10
+
 ```
 
 ---
