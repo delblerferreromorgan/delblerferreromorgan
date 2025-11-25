@@ -25,7 +25,6 @@
          alt="Typing SVG" style="margin: 0 auto;">
   </div>
 </div>
-
 <hr>
   
   <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
@@ -42,7 +41,6 @@
   <hr>
 
 </div>
-
 
 ### 🎓 Academic Background
 
