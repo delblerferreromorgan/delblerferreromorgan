@@ -175,12 +175,12 @@ gantt
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin: 30px 0;">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/delbler-ferreira-consultor)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/delblerferreromorgan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/delbler-ferrero-morgan-adminsitrator/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/delbler_ferrero_morgan)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@delblerferreira9)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:delblerferreira9@gmail.com)
-[![Beacons](https://img.shields.io/badge/Portfolio-6A52FF?style=for-the-badge&logo=beacons&logoColor=white)](https://beacons.ai/delblerferreira)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/delblerferreira)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eng.delblerferreromorgan@gmail.com)
+[![Beacons](https://img.shields.io/badge/Portfolio-6A52FF?style=for-the-badge&logo=beacons&logoColor=white)](https://beacons.ai/delblerferreromorgan)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/delblerferreromorgan)
 
 </div>
 
