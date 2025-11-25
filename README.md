@@ -19,7 +19,7 @@
        height="150" 
        style="border-radius: 15px; border: 3px solid #0077B6; margin: 0 auto; display: block;"/>
   <div style="display: flex; flex-direction: column; align-items: center; gap: 10px; margin: 0;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0077B6&center=true&vCenter=true&width=600&lines=Hi,+I'm+Delbler+Ferrero;Developer+of+this+page" 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0077B6&center=true&vCenter=true&width=600&lines=Hi,+I'm+Delbler+Ferrero+Morgan;Developer+of+this+page" 
          alt="Typing SVG" style="margin: 0 auto;">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=800080&center=true&vCenter=true&width=600&lines=Full-Stack+Engineering;Specialized+in+Automation;Multidisciplinary+Engineer"
          alt="Typing SVG" style="margin: 0 auto;">
@@ -34,6 +34,7 @@
       <img src="https://images.credly.com/size/220x220/images/604d3f13-0f4c-402b-8265-3ecad938435a/blob" alt="Credly Badge" width="100" height="100" style="border-radius: 12px;"/> NASA Open Science 101
     </a>
   </div>
+  
  <a href="https://www.credly.com/badges/0082dfec-c577-467d-bf2d-2f57625e4f50/public_url" target="_blank" rel="noopener noreferrer">
       <img src="https://images.credly.com/images/a9cb9c79-8ed0-4626-9f5d-953b3e6c2597/blob" alt="Credly Badge" width="100" height="100" style="border-radius: 12px;"/> NASA Open Science Essentials
     </a>
