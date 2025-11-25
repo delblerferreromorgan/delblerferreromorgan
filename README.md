@@ -80,7 +80,7 @@ gantt
   </h3>
   <ul style="list-style: none; padding-left: 0;">
     <li style="margin-bottom: 10px; text-align: left;">📊 Freelance Financial Administrator</li>
-    <li style="margin-bottom: 10px; text-align: left;">🏭 Production Engineer</li>
+    <li style="margin-bottom: 10px; text-align: left;">🏭 <li>Production and Projects Engineer</li>
     <li style="text-align: left;">💡 Focus: Process Automation, Data Analysis, Tech-Driven Solutions</li>
   </ul>
 </div>
