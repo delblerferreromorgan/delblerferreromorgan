@@ -13,6 +13,7 @@
        style="display: block; margin-top: 4px;"/>
 </div>
 
+
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: -20px 0 0 0;">
   <img src="https://i.postimg.cc/LXRTBZXB/8G-Rede.png" 
        width="150" 
@@ -26,6 +27,7 @@
   </div>
 </div>
 <hr>
+
   
   <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
     <h2 style="margin: 0;">🚀 Professional Portfolio</h2>
@@ -41,6 +43,7 @@
   <hr>
 
 </div>
+
 
 ### 🎓 Academic Background
 
