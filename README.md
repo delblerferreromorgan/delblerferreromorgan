@@ -31,16 +31,32 @@
   
   <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
     <h2 style="margin: 0;">🚀 Professional Portfolio</h2>
-    <a href="https://www.credly.com/badges/c3f1d820-5203-4e92-a98a-6079707563cb/public_url" target="_blank" rel="noopener noreferrer">
-      <img src="https://images.credly.com/size/220x220/images/604d3f13-0f4c-402b-8265-3ecad938435a/blob" alt="Credly Badge" width="100" height="100" style="border-radius: 12px;"/> NASA Open Science 101
+
+    <a href="https://www.credly.com/badges/c3f1d820-5203-4e92-a98a-6079707563cb/public_url" 
+       target="_blank" rel="noopener noreferrer"
+       style="text-align: center;">
+       
+      <img src="https://images.credly.com/size/220x220/images/604d3f13-0f4c-402b-8265-3ecad938435a/blob"
+           alt="Credly Badge" width="100" height="100" style="border-radius: 12px;"/>
+
+      <div style="margin-top: 8px;">NASA Open Science 101</div>
+
     </a>
-  </div>
-  
- <a href="https://www.credly.com/badges/0082dfec-c577-467d-bf2d-2f57625e4f50/public_url" target="_blank" rel="noopener noreferrer">
-      <img src="https://images.credly.com/images/a9cb9c79-8ed0-4626-9f5d-953b3e6c2597/blob" alt="Credly Badge" width="100" height="100" style="border-radius: 12px;"/> NASA Open Science Essentials
-    </a>
-  </div>
-  <hr>
+</div>
+
+
+<a href="https://www.credly.com/badges/0082dfec-c577-467d-bf2d-2f57625e4f50/public_url" 
+   target="_blank" rel="noopener noreferrer"
+   style="text-align: center; display: inline-block; margin-top: 20px;">
+   
+    <img src="https://images.credly.com/images/a9cb9c79-8ed0-4626-9f5d-953b3e6c2597/blob"
+         alt="Credly Badge" width="100" height="100" style="border-radius: 12px;"/>
+
+    <div style="margin-top: 8px;">NASA Open Science Essentials</div>
+
+</a>
+
+<hr>
 
 </div>
 
