@@ -45,8 +45,6 @@
 
 ### 🎓 Academic Background
 
-### 🎓 Academic Background
-
 ```mermaid
 gantt
     dateFormat  YYYY-MM-DD
@@ -71,8 +69,8 @@ gantt
 
     section Electrical and Electronics Engineering
     Electrical and Electronics Engineering        :active, software, 2025-03-10, 2028-04-10
-    
----
+
+```
 
 ---
 
@@ -256,4 +254,5 @@ gantt
     In Progress           :active,    ra, 2025-02-01, 2025-10-31
 ```
 </details>
+
 
