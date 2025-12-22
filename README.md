@@ -45,11 +45,8 @@
 
 ### 🎓 Academic Background
 
-```mermaid
 gantt
-    dateFormat  YYYY-MM-DD
-    axisFormat  %Y
-
+    dateFormat YYYY-MM-DD
 
     section Academic Years
     1st Year (2023–2024)        :a1, 2023-06-01, 2024-06-01
@@ -59,16 +56,16 @@ gantt
     5th Year (2027–2028)        :a5, 2027-06-01, 2028-06-01
 
     section Materials Engineering
-    Materials Engineering       :active, materials, 2023-06-06, 2028-06-06
+    Materials Engineering       :m1, 2023-06-06, 2028-06-06
 
     section Mechanical Engineering
-    Mechanical Engineering      :active, mechanical, 2023-01-06, 2028-02-06
+    Mechanical Engineering      :m2, 2023-01-06, 2028-02-06
 
     section Software Engineering
-    Software Engineering        :active, software, 2025-03-10, 2028-04-10
+    Software Engineering        :s1, 2025-03-10, 2028-04-10
 
     section Electrical and Electronics Engineering
-    Electrical and Electronics Engineering        :active, software, 2025-03-10, 2028-04-10
+    Electrical and Electronics Engineering :e1, 2025-03-10, 2028-04-10
 
 ```
 
