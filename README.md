@@ -66,6 +66,8 @@ gantt
 
     section Electrical and Electronics Engineering
     Electrical & Electronics    :e1, 2025-03-10, 2028-04-10
+    
+---
 
 ---
 
