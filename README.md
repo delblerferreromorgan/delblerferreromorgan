@@ -45,6 +45,7 @@
 
 ### 🎓 Academic Background
 
+```mermaid
 gantt
     dateFormat YYYY-MM-DD
 
