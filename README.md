@@ -46,26 +46,18 @@
 ### 🎓 Academic Background
 
 gantt
-    dateFormat  YYYY-MM-DD
+    title Study Progress
+    dateFormat YYYY-MM-DD
 
-    section Academic Years
-    1st Year (2023–2024)        :a1, 2023-06-01, 2024-06-01
-    2nd Year (2024–2025)        :a2, 2024-06-01, 2025-06-01
-    3rd Year (2025–2026)        :a3, 2025-06-01, 2026-06-01
-    4th Year (2026–2027)        :a4, 2026-06-01, 2027-06-01
-    5th Year (2027–2028)        :a5, 2027-06-01, 2028-06-01
+    section Technical Reading
+    Completed Reading        :sr1, 2025-02-01, 2025-05-31
 
-    section Materials Engineering
-    Materials Engineering       :m1, 2023-06-06, 2028-06-06
+    section Coding Practice
+    Coding Practice          :sr2, 2025-02-01, 2025-12-31
 
-    section Mechanical Engineering
-    Mechanical Engineering      :m2, 2023-01-06, 2028-02-06
+    section Algorithm Review
+    Algorithm Review         :sr3, 2025-02-01, 2025-10-31
 
-    section Software Engineering
-    Software Engineering        :s1, 2025-03-10, 2028-04-10
-
-    section Electrical and Electronics Engineering
-    Electrical & Electronics    :e1, 2025-03-10, 2028-04-10
     
 ---
 
