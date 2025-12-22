@@ -45,23 +45,32 @@
 
 ### 🎓 Academic Background
 
+### 🎓 Academic Background
+
+```mermaid
 gantt
-    title Academic Background
-    dateFormat YYYY-MM-DD
+    dateFormat  YYYY-MM-DD
+    axisFormat  %Y
+
 
     section Academic Years
-    1st Year (2023–2024)        :ay1, 2023-06-01, 2024-06-01
-    2nd Year (2024–2025)        :ay2, 2024-06-01, 2025-06-01
-    3rd Year (2025–2026)        :ay3, 2025-06-01, 2026-06-01
-    4th Year (2026–2027)        :ay4, 2026-06-01, 2027-06-01
-    5th Year (2027–2028)        :ay5, 2027-06-01, 2028-06-01
+    1st Year (2023–2024)        :a1, 2023-06-01, 2024-06-01
+    2nd Year (2024–2025)        :a2, 2024-06-01, 2025-06-01
+    3rd Year (2025–2026)        :a3, 2025-06-01, 2026-06-01
+    4th Year (2026–2027)        :a4, 2026-06-01, 2027-06-01
+    5th Year (2027–2028)        :a5, 2027-06-01, 2028-06-01
 
-    section Engineering Degrees
-    Materials Engineering       :ed1, 2023-06-06, 2028-06-06
-    Mechanical Engineering      :ed2, 2023-01-06, 2028-02-06
-    Software Engineering        :ed3, 2025-03-10, 2028-04-10
-    Electrical & Electronics    :ed4, 2025-03-10, 2028-04-10
+    section Materials Engineering
+    Materials Engineering       :active, materials, 2023-06-06, 2028-06-06
 
+    section Mechanical Engineering
+    Mechanical Engineering      :active, mechanical, 2023-01-06, 2028-02-06
+
+    section Software Engineering
+    Software Engineering        :active, software, 2025-03-10, 2028-04-10
+
+    section Electrical and Electronics Engineering
+    Electrical and Electronics Engineering        :active, software, 2025-03-10, 2028-04-10
     
 ---
 
