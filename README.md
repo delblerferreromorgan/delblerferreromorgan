@@ -130,7 +130,9 @@ gantt
 
 <hr>
 
-gantt
+gantt###🎓 Academic Background
+
+```mermaid
     title Roadmap 2026–2028
     dateFormat  YYYY-MM-DD
     axisFormat  %b %Y
