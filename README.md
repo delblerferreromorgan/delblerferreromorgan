@@ -132,20 +132,20 @@ gantt
 
 ## 📌 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/delblerferreromorgan/business-automation-system">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=delblerferreromorgan&repo=business-automation-system&theme=blueberry" />
-  </a>
-  <a href="https://github.com/delblerferreromorgan/data-analysis-platform">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=delblerferreromorgan&repo=business-automation-system&theme=blueberry" />
-  </a>
-</p>
+### 🔧 Business Automation System
+[![Repo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/delblerferreromorgan/business-automation-system)
+![Status](https://img.shields.io/badge/status-active-success)
+![Type](https://img.shields.io/badge/type-automation-blue)
 
-<p align="center">
-  <a href="https://github.com/delblerferreromorgan/financial-management-webapp">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=delblerferreromorgan&repo=business-automation-system&theme=blueberry" />
-  </a>
-</p>
+### 📊 Data Analysis Platform
+[![Repo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/delblerferreromorgan/data-analysis-platform)
+![Status](https://img.shields.io/badge/status-active-success)
+![Type](https://img.shields.io/badge/type-data%20analysis-blue)
+
+### 💰 Financial Management WebApp
+[![Repo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/delblerferreromorgan/financial-management-webapp)
+![Status](https://img.shields.io/badge/status-active-success)
+![Type](https://img.shields.io/badge/type-fintech-blue)
 
 ---
 
