@@ -159,27 +159,25 @@ gantt
 - **Data Analysis Platform** – Pandas, Matplotlib, Streamlit
 - **Financial Management Web App** – React, Node.js, MongoDB
 
-```
 ---
 
 ### 📈 Development Statistics
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=delblerferreromorgan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em"
+     src="https://github-readme-stats.vercel.app/api?username=delblerferreromorgan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delblerferreromorgan&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+<img height="180em"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=delblerferreromorgan&layout=compact&langs_count=8&theme=radical&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=delblerferreromorgan&theme=react&hide_border=true&area=true" height="240em"/>
+<img height="240em"
+     src="https://github-readme-activity-graph.vercel.app/graph?username=delblerferreromorgan&theme=react&hide_border=true&area=true" />
 
 </div>
-</ul>
-</div>
 
-</div>
-
-```
 ---
+
 
 ### 🌐 Professional Contact
 
@@ -192,9 +190,6 @@ gantt
 [![Beacons](https://img.shields.io/badge/Portfolio-6A52FF?style=for-the-badge&logo=beacons&logoColor=white)](https://beacons.ai/delblerferreromorgan)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/delblerferreromorgan)
 
-</div>
-
-```
 ---
 
 ### 🎯 Roadmap Profissional 2026
@@ -203,13 +198,16 @@ gantt
 gantt
     title Goals for 2026
     dateFormat  YYYY-MM-DD
+
     section Specialization
-    Machine Learning           :active,    des1, 2026-01-01, 2026-06-30
-    Technical Publication         :         des2, after des1, 90d
+    Machine Learning           :active, des1, 2026-01-01, 2026-06-30
+    Technical Publication      :       des2, after des1, 90d
+
     section Development
-    Automation System          :         des3, 2026-03-01, 120d
+    Automation System          :       des3, 2026-03-01, 120d
+
     section Community
-    1k GitHub Followers        :         des4, 2026-07-01, 180d
+    1k GitHub Followers        :       des4, 2026-07-01, 180d
 
 ```
 ---
