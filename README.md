@@ -130,29 +130,22 @@ gantt
 
 <hr>
 
-<div align="center">
+gantt
+    title Roadmap 2026–2028
+    dateFormat  YYYY-MM-DD
+    axisFormat  %b %Y
 
-## 📌 Featured Projects
+    section Specialization
+    Machine Learning          :active, ml1, 2026-01-01, 2026-06-30
+    Technical Publication     :crit,   tp1, after ml1, 90d
 
-**📅 Timeline:** Jan/2026 → Dez/2028  
-**⏳ Remaining:** `████████████████████` 100%
+    section Development
+    Automation System         :active, dev1, 2026-03-01, 2026-06-29
+    Data Analysis Platform    :        dev2, 2026-06-01, 2027-03-01
+    FinTech WebApp            :        dev3, 2027-01-01, 2028-12-31
 
-<br/>
-
-<a href="https://github.com/delblerferreromorgan/business-automation-system"><b>🔧 Business Automation System</b></a>  
-`Status: Active` • `Type: Automation` • `Start: 01/2026` • `End: 12/2028`
-
-<br/>
-
-<a href="https://github.com/delblerferreromorgan/data-analysis-platform"><b>📊 Data Analysis Platform</b></a>  
-`Status: Active` • `Type: Data Analysis` • `Start: 01/2026` • `End: 12/2028`
-
-<br/>
-
-<a href="https://github.com/delblerferreromorgan/financial-management-webapp"><b>💰 Financial Management WebApp</b></a>  
-`Status: Active` • `Type: FinTech` • `Start: 01/2026` • `End: 12/2028`
-
-</div>
+    section Community
+    GitHub Growth (1k+)       :done,   com1, 2026-07-01, 180d
 
 ---
 
