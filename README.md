@@ -130,18 +130,25 @@ gantt
 
 <hr>
 
-gantt
-    title Goals 2026
-    dateFormat YYYY-MM-DD
+### 🌐 Long-Term Vision & Goals (2026–2028)
 
-    section Learning
-    Machine Learning :active, 2026-01-01, 2026-06-30
+```mermaid
+gantt
+    title Roadmap 2026-2028 (Detailed)
+    dateFormat  YYYY-MM-DD
+    axisFormat  %b %Y
+
+    section Specialization
+    Machine Learning           :active, ml1, 2026-01-01, 2026-06-30
+    Technical Publication      :crit,   tp1, 2026-07-01, 2026-09-30
 
     section Development
-    Automation System : 2026-03-01, 120d
+    Automation System          :active, dev1, 2026-03-01, 2026-06-29
+    Data Analysis Platform     :        dev2, 2026-10-01, 2027-03-01
+    FinTech WebApp             :        dev3, 2027-04-01, 2028-12-31
 
     section Community
-    GitHub Growth : 2026-07-01, 180d
+    GitHub Growth (1k+)        :done,   com1, 2026-07-01, 2026-12-28
 
 ---
 
