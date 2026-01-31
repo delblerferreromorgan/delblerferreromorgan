@@ -138,14 +138,14 @@ gantt
 ![Type](https://img.shields.io/badge/type-automation-blue)
 
 ### 📊 Data Analysis Platform
-[![Repo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/delblerferreromorgan/data-analysis-platform)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/delblerferreromorgan/business-automation-system)
 ![Status](https://img.shields.io/badge/status-active-success)
-![Type](https://img.shields.io/badge/type-data%20analysis-blue)
+![Type](https://img.shields.io/badge/type-automation-blue)
 
 ### 💰 Financial Management WebApp
-[![Repo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/delblerferreromorgan/financial-management-webapp)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/delblerferreromorgan/business-automation-system)
 ![Status](https://img.shields.io/badge/status-active-success)
-![Type](https://img.shields.io/badge/type-fintech-blue)
+![Type](https://img.shields.io/badge/type-automation-blue)
 
 ---
 
