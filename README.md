@@ -130,9 +130,7 @@ gantt
 
 <hr>
 
-gantt###🎓 Academic Background
-
-```mermaid
+gantt
     title Roadmap 2026–2028
     dateFormat  YYYY-MM-DD
     axisFormat  %b %Y
@@ -148,6 +146,7 @@ gantt###🎓 Academic Background
 
     section Community
     GitHub Growth (1k+)       :done,   com1, 2026-07-01, 180d
+
 
 ---
 
