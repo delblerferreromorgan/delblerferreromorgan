@@ -130,19 +130,18 @@ gantt
 
 <hr>
 
-### 📌 Featured Projects
+gantt
+    title Goals 2026
+    dateFormat YYYY-MM-DD
 
-<p align="center">
-  <a href="https://github.com/delblerferreromorgan/business-automation-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=delblerferreromorgan&repo=business-automation-system&theme=blueberry" />
-  </a>
-  <a href="https://github.com/delblerferreromorgan/data-analysis-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=delblerferreromorgan&repo=data-analysis-platform&theme=blueberry" />
-  </a>
-  <a href="https://github.com/delblerferreromorgan/financial-management-webapp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=delblerferreromorgan&repo=financial-management-webapp&theme=blueberry" />
-  </a>
-</p>
+    section Learning
+    Machine Learning :active, 2026-01-01, 2026-06-30
+
+    section Development
+    Automation System : 2026-03-01, 120d
+
+    section Community
+    GitHub Growth : 2026-07-01, 180d
 
 ---
 
