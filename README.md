@@ -137,13 +137,13 @@ gantt
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=delblerferreromorgan&repo=business-automation-system&theme=blueberry" />
   </a>
   <a href="https://github.com/delblerferreromorgan/data-analysis-platform">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=delblerferreromorgan&repo=data-analysis-platform&theme=blueberry" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=delblerferreromorgan&repo=business-automation-system&theme=blueberry" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/delblerferreromorgan/financial-management-webapp">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=delblerferreromorgan&repo=financial-management-webapp&theme=blueberry" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=delblerferreromorgan&repo=business-automation-system&theme=blueberry" />
   </a>
 </p>
 
