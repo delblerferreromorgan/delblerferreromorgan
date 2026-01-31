@@ -132,20 +132,31 @@ gantt
 
 ## 📌 Featured Projects
 
-### 🔧 Business Automation System
-[![Repo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/delblerferreromorgan/business-automation-system)
-![Status](https://img.shields.io/badge/status-active-success)
-![Type](https://img.shields.io/badge/type-automation-blue)
+<p align="center">
 
-### 📊 Data Analysis Platform
-[![Repo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/delblerferreromorgan/business-automation-system)
-![Status](https://img.shields.io/badge/status-active-success)
-![Type](https://img.shields.io/badge/type-automation-blue)
+<a href="https://github.com/delblerferreromorgan/business-automation-system">
+  <img src="https://img.shields.io/badge/Business-Automation-blue?style=for-the-badge&logo=github" />
+</a>
+<img src="https://img.shields.io/badge/status-active-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/type-automation-informational?style=for-the-badge" />
 
-### 💰 Financial Management WebApp
-[![Repo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/delblerferreromorgan/business-automation-system)
-![Status](https://img.shields.io/badge/status-active-success)
-![Type](https://img.shields.io/badge/type-automation-blue)
+<br/><br/>
+
+<a href="https://github.com/delblerferreromorgan/data-analysis-platform">
+  <img src="https://img.shields.io/badge/Data-Analysis-Platform-blue?style=for-the-badge&logo=github" />
+</a>
+<img src="https://img.shields.io/badge/status-active-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/type-data--analysis-informational?style=for-the-badge" />
+
+<br/><br/>
+
+<a href="https://github.com/delblerferreromorgan/financial-management-webapp">
+  <img src="https://img.shields.io/badge/Financial-Management-WebApp-blue?style=for-the-badge&logo=github" />
+</a>
+<img src="https://img.shields.io/badge/status-active-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/type-fintech-informational?style=for-the-badge" />
+
+</p>
 
 ---
 
