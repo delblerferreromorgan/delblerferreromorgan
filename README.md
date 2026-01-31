@@ -134,21 +134,23 @@ gantt
 
 ```mermaid
 gantt
-    title Roadmap 2026–2028
-    dateFormat  YYYY-MM-DD
-    axisFormat  %b %Y
+   flowchart LR
+    A[Start 2026] --> B[Machine Learning]
+    B --> C[Technical Publication]
+    C --> D[Automation System]
+    D --> E[Data Analysis Platform]
+    E --> F[FinTech WebApp]
+    F --> G[1k GitHub Followers]
+    G --> H[End 2028]
 
-    section Specialization
-    Machine Learning          :active, ml1, 2026-01-01, 2026-06-30
-    Technical Publication     :crit,   tp1, after ml1, 90d
-
-    section Development
-    Automation System         :active, dev1, 2026-03-01, 2026-06-29
-    Data Analysis Platform    :        dev2, 2026-06-01, 2027-03-01
-    FinTech WebApp            :        dev3, 2027-01-01, 2028-12-31
-
-    section Community
-    GitHub Growth (1k+)       :done,   com1, 2026-07-01, 180d
+    style A fill:#0f172a,color:#fff
+    style B fill:#2563eb,color:#fff
+    style C fill:#7c3aed,color:#fff
+    style D fill:#16a34a,color:#fff
+    style E fill:#0284c7,color:#fff
+    style F fill:#ca8a04,color:#fff
+    style G fill:#22c55e,color:#000
+    style H fill:#020617,color:#fff
 
 ```
 ---
