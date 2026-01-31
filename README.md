@@ -134,13 +134,13 @@ gantt
 
 ```mermaid
 gantt
-    title Roadmap 2026-2028 (Detailed)
+    title Roadmap 2026-2028
     dateFormat  YYYY-MM-DD
     axisFormat  %b %Y
 
     section Specialization
     Machine Learning           :active, ml1, 2026-01-01, 2026-06-30
-    Technical Publication      :crit,   tp1, 2026-07-01, 2026-09-30
+    Technical Publication      :active, tp1, 2026-07-01, 2026-09-30
 
     section Development
     Automation System          :active, dev1, 2026-03-01, 2026-06-29
