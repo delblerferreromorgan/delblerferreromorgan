@@ -134,42 +134,23 @@ gantt
 
 ## 📌 Featured Projects
 
-<!-- PROGRESSO DO PERÍODO (imagem dinâmica) -->
-<img alt="Timeline Progress"
-     src="https://img.shields.io/badge/Timeline-Jan%202026%20%E2%86%92%20Dec%202028-111827?style=for-the-badge" />
+**📅 Timeline:** Jan/2026 → Dez/2028  
+**⏳ Remaining:** `████████████████████` 100%
+
 <br/>
-<img alt="Progress"
-     src="https://progress-bar.dev/0/?title=Time%20Remaining&width=520" />
 
-<br/><br/>
+<a href="https://github.com/delblerferreromorgan/business-automation-system"><b>🔧 Business Automation System</b></a>  
+`Status: Active` • `Type: Automation` • `Start: 01/2026` • `End: 12/2028`
 
-<a href="https://github.com/delblerferreromorgan/business-automation-system">
-  <img src="https://img.shields.io/badge/Business%20Automation-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<img src="https://img.shields.io/badge/Status-Active-22c55e?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Type-Automation-2563eb?style=for-the-badge" />
 <br/>
-<sub>📅 Jan 2026 → Dec 2028</sub>
 
-<br/><br/>
+<a href="https://github.com/delblerferreromorgan/data-analysis-platform"><b>📊 Data Analysis Platform</b></a>  
+`Status: Active` • `Type: Data Analysis` • `Start: 01/2026` • `End: 12/2028`
 
-<a href="https://github.com/delblerferreromorgan/data-analysis-platform">
-  <img src="https://img.shields.io/badge/Data%20Analysis%20Platform-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<img src="https://img.shields.io/badge/Status-Active-22c55e?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Type-Data-2563eb?style=for-the-badge" />
 <br/>
-<sub>📅 Jan 2026 → Dec 2028</sub>
 
-<br/><br/>
-
-<a href="https://github.com/delblerferreromorgan/financial-management-webapp">
-  <img src="https://img.shields.io/badge/Financial%20Management%20WebApp-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<img src="https://img.shields.io/badge/Status-Active-22c55e?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Type-FinTech-2563eb?style=for-the-badge" />
-<br/>
-<sub>📅 Jan 2026 → Dec 2028</sub>
+<a href="https://github.com/delblerferreromorgan/financial-management-webapp"><b>💰 Financial Management WebApp</b></a>  
+`Status: Active` • `Type: FinTech` • `Start: 01/2026` • `End: 12/2028`
 
 </div>
 
