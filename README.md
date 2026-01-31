@@ -134,21 +134,21 @@ gantt
 
 ```mermaid
 gantt
-    title Roadmap 2026-2028
+    title Roadmap 2026–2028
     dateFormat  YYYY-MM-DD
     axisFormat  %b %Y
 
     section Specialization
-    Machine Learning           :active, ml1, 2026-01-01, 2026-06-30
-    Technical Publication      :active, tp1, 2026-07-01, 2026-09-30
+    Machine Learning          :active, ml1, 2026-01-01, 2026-06-30
+    Technical Publication     :crit,   tp1, after ml1, 90d
 
     section Development
-    Automation System          :active, dev1, 2026-03-01, 2026-06-29
-    Data Analysis Platform     :        dev2, 2026-10-01, 2027-03-01
-    FinTech WebApp             :        dev3, 2027-04-01, 2028-12-31
+    Automation System         :active, dev1, 2026-03-01, 2026-06-29
+    Data Analysis Platform    :        dev2, 2026-06-01, 2027-03-01
+    FinTech WebApp            :        dev3, 2027-01-01, 2028-12-31
 
     section Community
-    GitHub Growth (1k+)        :done,   com1, 2026-07-01, 2026-12-28
+    GitHub Growth (1k+)       :done,   com1, 2026-07-01, 180d
 
 ```
 ---
