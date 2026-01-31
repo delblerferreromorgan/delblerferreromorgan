@@ -133,52 +133,22 @@ gantt
 ### 🌐 Long-Term Vision & Goals (2026–2028)
 
 ```mermaid
-flowchart LR
-    %% Timeline
-    T1[2026] --> T2[2027] --> T3[2028]
+gantt
+    title Long-Term Vision and Goals 2026-2028
+    dateFormat  YYYY-MM-DD
+    axisFormat  %b %Y
 
-    %% Specialization
-    subgraph S[Specialization]
-        ML[Machine Learning]
-        TP[Technical Publication]
-        ML --> TP
-    end
+    section Specialization
+    Machine Learning           :active, ml1, 2026-01-01, 2026-06-30
+    Technical Publication      :active, tp1, 2026-07-01, 2026-09-30
 
-    %% Development
-    subgraph D[Development]
-        AS[Automation System]
-        DA[Data Analysis Platform]
-        FW[FinTech WebApp]
-        AS --> DA --> FW
-    end
+    section Development
+    Automation System          :active, dev1, 2026-03-01, 2026-06-29
+    Data Analysis Platform     :        dev2, 2026-10-01, 2027-03-01
+    FinTech WebApp             :        dev3, 2027-04-01, 2028-12-31
 
-    %% Community
-    subgraph C[Community]
-        GH[GitHub Growth (1k+)]
-    end
-
-    %% Connections to timeline
-    T1 --> ML
-    T1 --> AS
-    T2 --> DA
-    T3 --> FW
-    T1 --> GH
-
-    %% Styles
-    style S fill:#0f172a,stroke:#334155,color:#ffffff
-    style D fill:#020617,stroke:#334155,color:#ffffff
-    style C fill:#020617,stroke:#334155,color:#ffffff
-
-    style ML fill:#2563eb,color:#ffffff
-    style TP fill:#7c3aed,color:#ffffff
-    style AS fill:#16a34a,color:#ffffff
-    style DA fill:#0284c7,color:#ffffff
-    style FW fill:#ca8a04,color:#ffffff
-    style GH fill:#22c55e,color:#000000
-
-    style T1 fill:#111827,color:#ffffff
-    style T2 fill:#111827,color:#ffffff
-    style T3 fill:#111827,color:#ffffff
+    section Community
+    GitHub Growth 1k           :done,   com1, 2026-07-01, 2026-12-28
 
 ```
 ---
