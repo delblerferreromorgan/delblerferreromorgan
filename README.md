@@ -130,42 +130,48 @@ gantt
 
 <hr>
 
+<div align="center">
+
 ## 📌 Featured Projects
 
-<p align="center">
+<!-- PROGRESSO DO PERÍODO (imagem dinâmica) -->
+<img alt="Timeline Progress"
+     src="https://img.shields.io/badge/Timeline-Jan%202026%20%E2%86%92%20Dec%202028-111827?style=for-the-badge" />
+<br/>
+<img alt="Progress"
+     src="https://progress-bar.dev/0/?title=Time%20Remaining&width=520" />
+
+<br/><br/>
 
 <a href="https://github.com/delblerferreromorgan/business-automation-system">
-  <img src="https://img.shields.io/badge/Business-Automation-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Business%20Automation-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Type-Automation-blue?style=for-the-badge" />
-
+<img src="https://img.shields.io/badge/Status-Active-22c55e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Type-Automation-2563eb?style=for-the-badge" />
 <br/>
 <sub>📅 Jan 2026 → Dec 2028</sub>
 
 <br/><br/>
 
 <a href="https://github.com/delblerferreromorgan/data-analysis-platform">
-  <img src="https://img.shields.io/badge/Data-Analysis-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Data%20Analysis%20Platform-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Type-Data-blue?style=for-the-badge" />
-
+<img src="https://img.shields.io/badge/Status-Active-22c55e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Type-Data-2563eb?style=for-the-badge" />
 <br/>
 <sub>📅 Jan 2026 → Dec 2028</sub>
 
 <br/><br/>
 
 <a href="https://github.com/delblerferreromorgan/financial-management-webapp">
-  <img src="https://img.shields.io/badge/Financial-WebApp-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Financial%20Management%20WebApp-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Type-FinTech-blue?style=for-the-badge" />
-
+<img src="https://img.shields.io/badge/Status-Active-22c55e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Type-FinTech-2563eb?style=for-the-badge" />
 <br/>
 <sub>📅 Jan 2026 → Dec 2028</sub>
 
-</p>
+</div>
 
 ---
 
