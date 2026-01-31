@@ -186,19 +186,19 @@ gantt
 
 ---
 
-### 🎯 Roadmap Profissional 2025
+### 🎯 Roadmap Profissional 2026
 
 ```mermaid
 gantt
-    title Goals for 2025
+    title Goals for 2026
     dateFormat  YYYY-MM-DD
     section Specialization
-    Machine Learning           :active,    des1, 2025-01-01, 2025-06-30
+    Machine Learning           :active,    des1, 2026-01-01, 2026-06-30
     Technical Publication         :         des2, after des1, 90d
     section Development
-    Automation System          :         des3, 2025-03-01, 120d
+    Automation System          :         des3, 2026-03-01, 120d
     section Community
-    1k GitHub Followers        :         des4, 2025-07-01, 180d
+    1k GitHub Followers        :         des4, 2026-07-01, 180d
 
 ```
 ---
@@ -247,11 +247,11 @@ gantt
     dateFormat  YYYY-MM-DD
     axisFormat  %m/%Y
     section Technical Reading
-    Completed           :active,    lt, 2025-02-01, 2025-05-31
+    Completed           :active,    lt, 2026-02-01, 2026-05-31
     section Coding Practice
-    In Progress           :active,    pc, 2025-02-01, 2025-12-31
+    In Progress           :active,    pc, 2026-02-01, 2026-12-31
     section Algorithm Review
-    In Progress           :active,    ra, 2025-02-01, 2025-10-31
+    In Progress           :active,    ra, 2026-02-01, 2026-10-31
 ```
 </details>
 
