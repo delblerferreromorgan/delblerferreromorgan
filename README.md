@@ -150,14 +150,16 @@ gantt
     section Community
     GitHub Growth (1k+)        :done,   com1, 2026-07-01, 2026-12-28
 
+```
 ---
 
 ### 🌟 Notable Projects
 
 - **Business Automation System** – Python, Flask, MySQL  
-- **Data Analysis Platform** – Pandas, Matplotlib, Streamlit  
-- **Financial Management Web App** – React, Node.js, MongoDB  
+- **Data Analysis Platform** – Pandas, Matplotlib, Streamlit
+- **Financial Management Web App** – React, Node.js, MongoDB
 
+```
 ---
 
 ### 📈 Development Statistics
@@ -175,6 +177,8 @@ gantt
 </div>
 
 </div>
+
+```
 ---
 
 ### 🌐 Professional Contact
@@ -190,6 +194,7 @@ gantt
 
 </div>
 
+```
 ---
 
 ### 🎯 Roadmap Profissional 2026
