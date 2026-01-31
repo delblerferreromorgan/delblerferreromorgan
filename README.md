@@ -135,26 +135,29 @@ gantt
 <p align="center">
 
 <a href="https://github.com/delblerferreromorgan/business-automation-system">
-  <img src="https://img.shields.io/badge/Business-Automation-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Business-Automation-0A66C2?style=for-the-badge&logo=github" />
 </a>
-<img src="https://img.shields.io/badge/status-active-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/type-automation-informational?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Active-22c55e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Type-Automation-2563eb?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Period-01%2F2026__to__12%2F2028-6b7280?style=for-the-badge" />
 
 <br/><br/>
 
 <a href="https://github.com/delblerferreromorgan/data-analysis-platform">
-  <img src="https://img.shields.io/badge/Data-Analysis-Platform-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Data-Analysis-Platform-0A66C2?style=for-the-badge&logo=github" />
 </a>
-<img src="https://img.shields.io/badge/status-active-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/type-data--analysis-informational?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Active-22c55e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Type-Data_Analysis-2563eb?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Period-01%2F2026__to__12%2F2028-6b7280?style=for-the-badge" />
 
 <br/><br/>
 
 <a href="https://github.com/delblerferreromorgan/financial-management-webapp">
-  <img src="https://img.shields.io/badge/Financial-Management-WebApp-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Financial-Management-WebApp-0A66C2?style=for-the-badge&logo=github" />
 </a>
-<img src="https://img.shields.io/badge/status-active-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/type-fintech-informational?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Active-22c55e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Type-FinTech-2563eb?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Period-01%2F2026__to__12%2F2028-6b7280?style=for-the-badge" />
 
 </p>
 
