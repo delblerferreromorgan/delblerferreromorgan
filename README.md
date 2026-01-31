@@ -132,9 +132,9 @@ gantt
 
 ### 🌐 Long-Term Vision & Goals (2026–2028)
 
-
+```mermaid
 gantt
-    title Roadmap 2026–2028 (Detailed)
+    title Roadmap 2026-2028 (Detailed)
     dateFormat  YYYY-MM-DD
     axisFormat  %b %Y
 
