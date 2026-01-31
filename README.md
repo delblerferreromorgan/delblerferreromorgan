@@ -133,24 +133,52 @@ gantt
 ### 🌐 Long-Term Vision & Goals (2026–2028)
 
 ```mermaid
-gantt
-   flowchart LR
-    A[Start 2026] --> B[Machine Learning]
-    B --> C[Technical Publication]
-    C --> D[Automation System]
-    D --> E[Data Analysis Platform]
-    E --> F[FinTech WebApp]
-    F --> G[1k GitHub Followers]
-    G --> H[End 2028]
+flowchart LR
+    %% Timeline
+    T1[2026] --> T2[2027] --> T3[2028]
 
-    style A fill:#0f172a,color:#fff
-    style B fill:#2563eb,color:#fff
-    style C fill:#7c3aed,color:#fff
-    style D fill:#16a34a,color:#fff
-    style E fill:#0284c7,color:#fff
-    style F fill:#ca8a04,color:#fff
-    style G fill:#22c55e,color:#000
-    style H fill:#020617,color:#fff
+    %% Specialization
+    subgraph S[Specialization]
+        ML[Machine Learning]
+        TP[Technical Publication]
+        ML --> TP
+    end
+
+    %% Development
+    subgraph D[Development]
+        AS[Automation System]
+        DA[Data Analysis Platform]
+        FW[FinTech WebApp]
+        AS --> DA --> FW
+    end
+
+    %% Community
+    subgraph C[Community]
+        GH[GitHub Growth (1k+)]
+    end
+
+    %% Connections to timeline
+    T1 --> ML
+    T1 --> AS
+    T2 --> DA
+    T3 --> FW
+    T1 --> GH
+
+    %% Styles
+    style S fill:#0f172a,stroke:#334155,color:#ffffff
+    style D fill:#020617,stroke:#334155,color:#ffffff
+    style C fill:#020617,stroke:#334155,color:#ffffff
+
+    style ML fill:#2563eb,color:#ffffff
+    style TP fill:#7c3aed,color:#ffffff
+    style AS fill:#16a34a,color:#ffffff
+    style DA fill:#0284c7,color:#ffffff
+    style FW fill:#ca8a04,color:#ffffff
+    style GH fill:#22c55e,color:#000000
+
+    style T1 fill:#111827,color:#ffffff
+    style T2 fill:#111827,color:#ffffff
+    style T3 fill:#111827,color:#ffffff
 
 ```
 ---
