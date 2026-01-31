@@ -130,14 +130,18 @@ gantt
 
 <hr>
 
-timeline
+gantt
     title Roadmap 2026–2028
+    dateFormat  YYYY-MM-DD
+    axisFormat  %b %Y
 
-    2026-01-01 : Machine Learning Start
-    2026-06-30 : Machine Learning Completed
-    2026-09-30 : Technical Publication
-    2027-03-01 : Data Analysis Platform
-    2028-12-31 : FinTech WebApp Completed
+    section Specialization
+    Machine Learning        :active, ml1, 2026-01-01, 2026-06-30
+    Technical Publication   :crit,   tp1, 2026-07-01, 2026-09-30
+
+    section Development
+    Data Analysis Platform  :active, da1, 2026-10-01, 2027-03-01
+    FinTech WebApp          :        fw1, 2027-04-01, 2028-12-31
 
 ---
 
