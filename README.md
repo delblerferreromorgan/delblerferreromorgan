@@ -130,25 +130,19 @@ gantt
 
 <hr>
 
-### 🌐 Long-Term Vision & Goals (2026–2028)
+### 📌 Featured Projects
 
-```mermaid
-gantt
-    title Roadmap 2026-2028 (Detailed)
-    dateFormat  YYYY-MM-DD
-    axisFormat  %b %Y
-
-    section Specialization
-    Machine Learning           :active, ml1, 2026-01-01, 2026-06-30
-    Technical Publication      :crit,   tp1, 2026-07-01, 2026-09-30
-
-    section Development
-    Automation System          :active, dev1, 2026-03-01, 2026-06-29
-    Data Analysis Platform     :        dev2, 2026-10-01, 2027-03-01
-    FinTech WebApp             :        dev3, 2027-04-01, 2028-12-31
-
-    section Community
-    GitHub Growth (1k+)        :done,   com1, 2026-07-01, 2026-12-28
+<p align="center">
+  <a href="https://github.com/delblerferreromorgan/business-automation-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=delblerferreromorgan&repo=business-automation-system&theme=blueberry" />
+  </a>
+  <a href="https://github.com/delblerferreromorgan/data-analysis-platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=delblerferreromorgan&repo=data-analysis-platform&theme=blueberry" />
+  </a>
+  <a href="https://github.com/delblerferreromorgan/financial-management-webapp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=delblerferreromorgan&repo=financial-management-webapp&theme=blueberry" />
+  </a>
+</p>
 
 ---
 
