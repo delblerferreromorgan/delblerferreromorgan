@@ -219,19 +219,19 @@ gantt
     <tr>
       <td style="border:1px solid #4A90E2; padding:8px;">Technical Reading</td>
       <td style="border:1px solid #4A90E2; padding:8px;">1h</td>
-      <td style="border:1px solid #4A90E2; padding:8px;">02/2025 a 05/2025</td>
+      <td style="border:1px solid #4A90E2; padding:8px;">02/2026 a 05/2026</td>
       <td style="border:1px solid #4A90E2; padding:8px; background-color:#5bc0de; color:white;">Completed</td>
     </tr>
     <tr>
       <td style="border:1px solid #4A90E2; padding:8px;">Coding Practice</td>
       <td style="border:1px solid #4A90E2; padding:8px;">2h</td>
-      <td style="border:1px solid #4A90E2; padding:8px;">02/2025 a 12/2025</td>
+      <td style="border:1px solid #4A90E2; padding:8px;">02/2026 a 12/2026</td>
       <td style="border:1px solid #4A90E2; padding:8px; background-color:#5bc0de; color:white;">In Progress</td>
     </tr>
     <tr>
       <td style="border:1px solid #4A90E2; padding:8px;">Algorithm Review</td>
       <td style="border:1px solid #4A90E2; padding:8px;">30min</td>
-      <td style="border:1px solid #4A90E2; padding:8px;">02/2025 a 10/2025</td>
+      <td style="border:1px solid #4A90E2; padding:8px;">02/2026 a 10/2026</td>
       <td style="border:1px solid #4A90E2; padding:8px; background-color:#5bc0de; color:white;">In Progress</td>
     </tr>
   </tbody>
