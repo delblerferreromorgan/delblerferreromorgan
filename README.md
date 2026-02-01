@@ -6,13 +6,11 @@
        style="border-radius: 50px; border: 3px solid #0077B6; display: block;" />
 </div>
 
-
   <!-- Letreiro animado "United States" -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0077B6&center=false&width=220&lines=United+States" 
        alt="Typing SVG United States" 
        style="display: block; margin-top: 4px;"/>
 </div>
-
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: -20px 0 0 0;">
   <img src="https://i.postimg.cc/LXRTBZXB/8G-Rede.png" 
@@ -49,7 +47,6 @@
 gantt
     dateFormat  YYYY-MM-DD
     axisFormat  %Y
-
 
     section Academic Years
     1st Year (2023–2024)        :a1, 2023-06-01, 2024-06-01
@@ -159,10 +156,11 @@ gantt
 - **Data Analysis Platform** – Pandas, Matplotlib, Streamlit
 - **Financial Management Web App** – React, Node.js, MongoDB
 
---- <div align="center">
+---
 
 ### 📈 Development Statistics
 
+<div align="center">
 
 <img height="180em"
      src="https://github-readme-stats.vercel.app/api?username=delblerferreromorgan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
@@ -176,7 +174,6 @@ gantt
 </div>
 
 ---
-
 
 ### 🌐 Professional Contact
 
