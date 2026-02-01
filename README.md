@@ -159,11 +159,10 @@ gantt
 - **Data Analysis Platform** – Pandas, Matplotlib, Streamlit
 - **Financial Management Web App** – React, Node.js, MongoDB
 
----
+--- <div align="center">
 
 ### 📈 Development Statistics
 
-<div align="center">
 
 <img height="180em"
      src="https://github-readme-stats.vercel.app/api?username=delblerferreromorgan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
