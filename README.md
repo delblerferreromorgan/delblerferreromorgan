@@ -79,9 +79,9 @@
 
 </div>
 
-/>
-
 <div align="center">
+
+---
 
 ### 📊 Development Statistics
 
