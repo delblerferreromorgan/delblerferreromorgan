@@ -163,13 +163,13 @@ gantt
 <div align="center">
 
 <img height="180em"
-     src="https://github-readme-stats.vercel.app/api?username=delblerferreromorgan/delblerferreromorgan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+     src="https://github-readme-stats.vercel.app/api?username=delblerferreromorgan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
 
 <img height="180em"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=delblerferreromorgan/delblerferreromorgan&layout=compact&langs_count=8&theme=radical&hide_border=true" />
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=delblerferreromorgan&layout=compact&langs_count=8&theme=radical&hide_border=true" />
 
 <img height="240em"
-     src="https://github-readme-activity-graph.vercel.app/graph?username=delblerferreromorgan/delblerferreromorgan&theme=react&hide_border=true&area=true" />
+     src="https://github-readme-activity-graph.vercel.app/graph?username=delblerferreromorgan&theme=react&hide_border=true&area=true" />
 
 </div>
 
