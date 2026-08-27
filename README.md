@@ -30,6 +30,8 @@
 
 </div>
 
+---
+
 <div align="center">
 
 <table>
@@ -65,7 +67,7 @@ PROFESSIONAL PROFILE
 <img src="https://flagcdn.com/w40/pt.png"
      width="20"
      alt="Portugal">
- <b>Full Member of OEP — N2</b>
+<b>Full Member of OEP — N2</b>
 
 <br>
 
