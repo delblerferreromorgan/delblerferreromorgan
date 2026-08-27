@@ -77,52 +77,31 @@ alt="Executive Profile"
 
 ---
 
-<table>
-<tr>
-
 <td width="50%" align="center" valign="middle">
 
-<div style="
+<div align="center" style="
   background:#050505;
   border:1px solid #8b5cf6;
   border-radius:16px;
-  padding:22px;
-  box-shadow:0 0 18px rgba(139,92,246,.35);
+  padding:24px;
+  box-shadow:0 0 20px rgba(139,92,246,.35);
 ">
 
-<h3 style="color:#c084fc; margin:0 0 18px 0;">
-🏭 ENGINEERING
-</h3>
+<h3 align="center">🏭 ENGINEERING</h3>
 
-<p style="font-size:15px; line-height:2; color:#e5e7eb; margin:0;">
-⚙️ Production &nbsp; • &nbsp; 🔧 Mechanical<br>
-⚡ Electrical &nbsp; • &nbsp; 📐 Projects<br>
+<div align="center">
+
+⚙️ Production &nbsp; • &nbsp; 🔧 Mechanical
+
+⚡ Electrical &nbsp; • &nbsp; 📐 Projects
+
 🏭 Operations &nbsp; • &nbsp; 📊 Optimization
-</p>
+
+</div>
 
 </div>
 
 </td>
-
-<td width="50%" align="center">
-
-### 💻 TECHNOLOGY
-
-Python  
-JavaScript  
-Full-Stack  
-Data Analysis  
-Machine Learning  
-Automation
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
 
 ## 🎯 CORE STACK
 
