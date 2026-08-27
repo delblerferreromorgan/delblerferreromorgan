@@ -61,19 +61,223 @@ alt="Executive Profile"
 
 ---
 
-## 📊 GitHub Analytics
+<svg width="1000" height="520" viewBox="0 0 1000 520"
+xmlns="http://www.w3.org/2000/svg">
 
-<div align="center">
+<defs>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=delblerferreromorgan&theme=github_dark" width="100%" alt="GitHub Profile">
+<linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#030303"/>
+<stop offset="55%" stop-color="#09050f"/>
+<stop offset="100%" stop-color="#12081c"/>
+</linearGradient>
 
-<br><br>
+<linearGradient id="purpleLine" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#6d28d9"/>
+<stop offset="45%" stop-color="#a855f7"/>
+<stop offset="75%" stop-color="#c084fc"/>
+<stop offset="100%" stop-color="#7c3aed"/>
+</linearGradient>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=delblerferreromorgan&theme=github_dark" width="49%" alt="Repositories by Language">
+<linearGradient id="area" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#8b5cf6" stop-opacity=".20"/>
+<stop offset="100%" stop-color="#8b5cf6" stop-opacity="0"/>
+</linearGradient>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=delblerferreromorgan&theme=github_dark" width="49%" alt="Most Commit Language">
+<filter id="glow">
+<feGaussianBlur stdDeviation="5" result="blur"/>
+<feMerge>
+<feMergeNode in="blur"/>
+<feMergeNode in="SourceGraphic"/>
+</feMerge>
+</filter>
 
-</div>
+</defs>
+
+<!-- BACKGROUND -->
+
+<rect
+x="5"
+y="5"
+width="990"
+height="510"
+rx="22"
+fill="url(#background)"
+stroke="#8b5cf6"
+stroke-width="1.5"/>
+
+
+<!-- HEADER -->
+
+<text
+x="500"
+y="42"
+text-anchor="middle"
+font-family="Arial"
+font-size="20"
+font-weight="bold"
+fill="#c084fc">
+DEVELOPMENT ANALYTICS
+</text>
+
+<text
+x="500"
+y="64"
+text-anchor="middle"
+font-family="Arial"
+font-size="11"
+fill="#8b8b8b">
+GITHUB DEVELOPMENT METRICS
+</text>
+
+
+<!-- METRIC CARDS -->
+
+<g font-family="Arial">
+
+<rect x="45" y="90" width="205" height="70"
+rx="12" fill="#080808"
+stroke="#6d28d9" stroke-opacity=".6"/>
+
+<text x="147" y="125"
+text-anchor="middle"
+font-size="11"
+fill="#a78bfa">
+COMMITS
+</text>
+
+
+<rect x="265" y="90" width="205" height="70"
+rx="12" fill="#080808"
+stroke="#6d28d9" stroke-opacity=".6"/>
+
+<text x="367" y="125"
+text-anchor="middle"
+font-size="11"
+fill="#a78bfa">
+PULL REQUESTS
+</text>
+
+
+<rect x="485" y="90" width="205" height="70"
+rx="12" fill="#080808"
+stroke="#6d28d9" stroke-opacity=".6"/>
+
+<text x="587" y="125"
+text-anchor="middle"
+font-size="11"
+fill="#a78bfa">
+ISSUES
+</text>
+
+
+<rect x="705" y="90" width="205" height="70"
+rx="12" fill="#080808"
+stroke="#6d28d9" stroke-opacity=".6"/>
+
+<text x="807" y="125"
+text-anchor="middle"
+font-size="11"
+fill="#a78bfa">
+REPOSITORIES
+</text>
+
+</g>
+
+
+<!-- GRAPH AREA -->
+
+<rect
+x="45"
+y="185"
+width="865"
+height="245"
+rx="15"
+fill="#050505"
+stroke="#8b5cf6"
+stroke-opacity=".35"/>
+
+
+<!-- GRID -->
+
+<g stroke="#8b5cf6" stroke-opacity=".10">
+
+<line x1="70" y1="220" x2="885" y2="220"/>
+<line x1="70" y1="265" x2="885" y2="265"/>
+<line x1="70" y1="310" x2="885" y2="310"/>
+<line x1="70" y1="355" x2="885" y2="355"/>
+<line x1="70" y1="400" x2="885" y2="400"/>
+
+</g>
+
+
+<!-- EMPTY GRAPH -->
+
+<line
+x1="70"
+y1="400"
+x2="885"
+y2="400"
+stroke="#8b5cf6"
+stroke-opacity=".25"/>
+
+
+<!-- CENTER MESSAGE -->
+
+<text
+x="500"
+y="300"
+text-anchor="middle"
+font-family="Arial"
+font-size="13"
+fill="#777">
+AWAITING GITHUB DATA
+</text>
+
+<text
+x="500"
+y="322"
+text-anchor="middle"
+font-family="Arial"
+font-size="10"
+fill="#555">
+DATA WILL BE UPDATED AUTOMATICALLY
+</text>
+
+
+<!-- X AXIS -->
+
+<g
+font-family="Arial"
+font-size="10"
+fill="#555"
+text-anchor="middle">
+
+<text x="70" y="420">—</text>
+<text x="185" y="420">—</text>
+<text x="300" y="420">—</text>
+<text x="415" y="420">—</text>
+<text x="530" y="420">—</text>
+<text x="645" y="420">—</text>
+<text x="760" y="420">—</text>
+<text x="885" y="420">—</text>
+
+</g>
+
+
+<!-- FOOTER -->
+
+<text
+x="500"
+y="470"
+text-anchor="middle"
+font-family="Arial"
+font-size="11"
+fill="#777">
+GITHUB ACTIVITY • REAL DATA
+</text>
+
+</svg>
 
 ---
 
