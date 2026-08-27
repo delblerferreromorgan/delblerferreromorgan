@@ -76,16 +76,15 @@
 
 ## 📈 GITHUB ACTIVITY
 
-<br>
+<div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=delblerferreromorgan&bg_color=0B0B0F&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=delblerferreromorgan&bg_color=0B0B0F&color=A78BFA&line=A78BFA&point=FFFFFF&area=true&area_color=8B5CF6&hide_border=true&custom_title=GitHub%20Contribution%20Activity"
   width="100%"
-  alt="GitHub Activity Graph"
+  alt="GitHub Contribution Activity"
 />
 
 </div>
-
 ---
 
 <div align="center">
