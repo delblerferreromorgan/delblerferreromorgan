@@ -16,17 +16,27 @@
 
 <br>
 
+<table>
+<tr>
+<td align="center">
 <a href="https://github.com/delblerferreromorgan">
 <img src="https://img.shields.io/badge/GITHUB-0B0B0F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
+</td>
 
+<td align="center">
 <a href="https://www.linkedin.com/in/delbler-ferrero-morgan-adminsitrator/">
 <img src="https://img.shields.io/badge/LINKEDIN-241B2F?style=for-the-badge&logo=linkedin&logoColor=C4B5FD" alt="LinkedIn">
 </a>
+</td>
 
+<td align="center">
 <a href="https://beacons.ai/delblerferreromorgan">
 <img src="https://img.shields.io/badge/PORTFOLIO-302044?style=for-the-badge&logo=googlechrome&logoColor=C4B5FD" alt="Portfolio">
 </a>
+</td>
+</tr>
+</table>
 
 </div>
 
