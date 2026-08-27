@@ -82,6 +82,7 @@ PROFESSIONAL PROFILE
 
 </div>
 
+<div align="center">
 ---
 
 ### 📊 Development Statistics
