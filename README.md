@@ -34,43 +34,23 @@
 
 <div align="center">
 
-## 📊 DEVELOPMENT STATISTICS
+### 📊 Development Statistics
 
-<br>
+<div align="center">
 
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=delblerferreromorgan&theme=radical"
-  width="100%"
-  alt="GitHub Profile Details"
-/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=delblerferreromorgan&theme=radical" width="100%" alt="GitHub Profile Details">
 
 <br><br>
 
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=delblerferreromorgan&theme=radical"
-  width="49%"
-  alt="Repositories per Language"
-/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=delblerferreromorgan&theme=radical" width="49%" alt="Repositories per Language">
 
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=delblerferreromorgan&theme=radical"
-  width="49%"
-  alt="Most Commit Language"
-/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=delblerferreromorgan&theme=radical" width="49%" alt="Most Commit Language">
 
 <br><br>
 
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=delblerferreromorgan&theme=radical"
-  width="49%"
-  alt="GitHub Statistics"
-/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=delblerferreromorgan&theme=radical" width="49%" alt="GitHub Statistics">
 
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=delblerferreromorgan&theme=radical"
-  width="49%"
-  alt="Productive Time"
-/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=delblerferreromorgan&theme=radical" width="49%" alt="Productive Time">
 
 </div>
 
