@@ -103,38 +103,36 @@ alt="Executive Profile"
 
 </td>
 
-<div align="center">
-
-## 🎯 CORE STACK
+<td width="50%" align="center" valign="middle">
 
 <div align="center">
+
+### 🎯 CORE STACK
 
 <img src="https://img.shields.io/badge/Python-18151F?style=for-the-badge&logo=python&logoColor=A78BFA">
 <img src="https://img.shields.io/badge/JavaScript-18151F?style=for-the-badge&logo=javascript&logoColor=C4B5FD">
 <img src="https://img.shields.io/badge/React-18151F?style=for-the-badge&logo=react&logoColor=A78BFA">
 <img src="https://img.shields.io/badge/Flask-18151F?style=for-the-badge&logo=flask&logoColor=C4B5FD">
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/Pandas-18151F?style=for-the-badge&logo=pandas&logoColor=A78BFA">
 <img src="https://img.shields.io/badge/NumPy-18151F?style=for-the-badge&logo=numpy&logoColor=C4B5FD">
 <img src="https://img.shields.io/badge/Scikit--Learn-18151F?style=for-the-badge&logo=scikit-learn&logoColor=A78BFA">
 <img src="https://img.shields.io/badge/YOLO-18151F?style=for-the-badge&logo=yolo&logoColor=C4B5FD">
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/Git-18151F?style=for-the-badge&logo=git&logoColor=A78BFA">
 <img src="https://img.shields.io/badge/GitHub-18151F?style=for-the-badge&logo=github&logoColor=C4B5FD">
 <img src="https://img.shields.io/badge/Docker-18151F?style=for-the-badge&logo=docker&logoColor=A78BFA">
 <img src="https://img.shields.io/badge/AWS-18151F?style=for-the-badge&logo=amazon-aws&logoColor=C4B5FD">
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/MySQL-18151F?style=for-the-badge&logo=mysql&logoColor=A78BFA">
 <img src="https://img.shields.io/badge/MongoDB-18151F?style=for-the-badge&logo=mongodb&logoColor=C4B5FD">
 <img src="https://img.shields.io/badge/SQL-18151F?style=for-the-badge&logo=databricks&logoColor=A78BFA">
-
-</div>
 
 </div>
 
