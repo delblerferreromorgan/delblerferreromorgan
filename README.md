@@ -105,6 +105,8 @@ alt="Executive Profile"
 
 <td width="50%" align="center" valign="middle">
 
+---
+
 <div align="center">
 
 ### 🎯 CORE STACK
