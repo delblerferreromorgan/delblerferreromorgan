@@ -65,25 +65,13 @@ alt="Executive Profile"
 
 <div align="center">
 
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=delblerferreromorgan&theme=radical"
-width="100%"
-alt="GitHub Profile"
-/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=delblerferreromorgan&theme=github_dark" width="100%" alt="GitHub Profile">
 
 <br><br>
 
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=delblerferreromorgan&theme=radical"
-width="49%"
-alt="Repositories per Language"
-/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=delblerferreromorgan&theme=github_dark" width="49%" alt="Repositories by Language">
 
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=delblerferreromorgan&theme=radical"
-width="49%"
-alt="Most Commit Language"
-/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=delblerferreromorgan&theme=github_dark" width="49%" alt="Most Commit Language">
 
 </div>
 
