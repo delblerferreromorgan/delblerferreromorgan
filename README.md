@@ -47,7 +47,32 @@
 </div>
 
 ---
+<td width="50%" align="center" valign="middle">
 
+<div align="center" style="
+  background:#050505;
+  border:1px solid #8b5cf6;
+  border-radius:16px;
+  padding:24px;
+  box-shadow:0 0 20px rgba(139,92,246,.35);
+">
+
+<h3 align="center">🏭 ENGINEERING</h3>
+
+<div align="center">
+
+⚙️ Production &nbsp; • &nbsp; 🔧 Mechanical
+
+⚡ Electrical &nbsp; • &nbsp; 📐 Projects
+
+🏭 Operations &nbsp; • &nbsp; 📊 Optimization
+
+</div>
+
+</div>
+
+</td>
+---
 <div align="center">
 
 ## ⚡ EXECUTIVE PROFILE
