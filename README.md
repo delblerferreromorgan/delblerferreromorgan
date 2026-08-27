@@ -79,9 +79,17 @@
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=delblerferreromorgan&bg_color=0B0B0F&color=A78BFA&line=A78BFA&point=FFFFFF&area=true&area_color=8B5CF6&hide_border=true&custom_title=GitHub%20Contribution%20Activity"
+  src="https://github-readme-stats.vercel.app/api?username=delblerferreromorgan&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=radical"
   width="100%"
-  alt="GitHub Contribution Activity"
+  alt="GitHub Statistics"
+/>
+
+<br><br>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=delblerferreromorgan&layout=compact&hide_border=true&langs_count=10&theme=radical"
+  width="60%"
+  alt="Top Languages"
 />
 
 </div>
