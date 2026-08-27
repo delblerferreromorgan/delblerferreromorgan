@@ -72,7 +72,7 @@
 </div>
 
 </td>
----
+
 <div align="center">
 
 ## ⚡ EXECUTIVE PROFILE
