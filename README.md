@@ -35,22 +35,25 @@
 
 <table>
 <tr>
-<td align="center" width="700">
+<td align="center" width="720">
 
 <div style="
   background-color:#0B0B0F;
-  border:2px solid #8B5CF6;
-  border-radius:18px;
-  padding:28px;
+  border:1.5px solid #8B5CF6;
+  border-radius:16px;
+  padding:18px 24px;
 ">
 
-<h3 style="color:#A78BFA;">
+<h3 style="color:#C4B5FD; margin:0 0 12px 0;">
 👤 PROFESSIONAL PROFILE
 </h3>
 
-<br>
-
-<p style="color:#9F8AC7; font-size:16px; line-height:2;">
+<p style="
+  color:#9F8AC7;
+  font-size:15px;
+  line-height:1.7;
+  margin:0;
+">
 
 ⚙️ <b>Production & Project Engineer</b>
 &nbsp;&nbsp;•&nbsp;&nbsp;
@@ -75,6 +78,8 @@
 </table>
 
 </div>
+
+--
 
 <div align="center">
 
