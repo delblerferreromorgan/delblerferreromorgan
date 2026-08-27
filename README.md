@@ -158,18 +158,23 @@ gantt
 
 ---
 
-### 📈 Development Statistics
+### 📊 Development Statistics
 
 <div align="center">
 
-<img height="180em"
-     src="https://github-readme-stats.vercel.app/api?username=delblerferreromorgan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=delblerferreromorgan&theme=radical" width="100%" alt="GitHub Profile Details">
 
-<img height="180em"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=delblerferreromorgan&layout=compact&langs_count=8&theme=radical&hide_border=true" />
+<br><br>
 
-<img height="240em"
-     src="https://github-readme-activity-graph.vercel.app/graph?username=delblerferreromorgan&theme=react&hide_border=true&area=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=delblerferreromorgan&theme=radical" width="49%" alt="Repositories per Language">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=delblerferreromorgan&theme=radical" width="49%" alt="Most Commit Language">
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=delblerferreromorgan&theme=radical" width="49%" alt="GitHub Statistics">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=delblerferreromorgan&theme=radical" width="49%" alt="Productive Time">
 
 </div>
 
