@@ -41,14 +41,12 @@
   background-color:#0B0B0F;
   border:2px solid #8B5CF6;
   border-radius:18px;
-  padding:28px;
+  padding:22px;
 ">
 
 <h3 style="color:#A78BFA;">
 🏭 ENGINEERING
 </h3>
-
-<br>
 
 <p style="color:#9F8AC7; font-size:16px; line-height:2;">
 
@@ -75,7 +73,7 @@
 </table>
 
 </div>
---- aqui
+---
 <div align="center">
 
 ### 📊 Development Statistics
