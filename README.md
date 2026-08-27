@@ -57,7 +57,7 @@ PROFESSIONAL PROFILE
 
 ⚙️ <b>Production & Project Engineer</b>
 &nbsp;&nbsp;•&nbsp;&nbsp;
-▣ <b>Executive Finance Administrator</b>
+💼 <b>Executive Finance Administrator</b>
 
 <br>
 
@@ -70,6 +70,9 @@ PROFESSIONAL PROFILE
 
 <br>
 
+<img src="https://flagcdn.com/w40/pt.png"
+     width="20"
+     alt="Portugal">
 ◉ <b>Southern Region of Lisbon, Portugal</b>
 
 </p>
@@ -82,8 +85,9 @@ PROFESSIONAL PROFILE
 
 </div>
 
+----
+
 <div align="center">
----
 
 ### 📊 Development Statistics
 
