@@ -64,6 +64,8 @@ alt="Executive Profile"
 
 <td width="50%" align="center">
 
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
