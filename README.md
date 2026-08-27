@@ -1,129 +1,273 @@
-<div align="center">
-
-<div style="width: 220px; margin: 0 auto 10px auto;">
-  <img
-    src="https://cdn-assets-cloud.frontify.com/s3/frontify-cloud-files-us/eyJwYXRoIjoiZnJvbnRpZnlcL2ZpbGVcLzduNzdKd0ZLYWgzM2pZWUZESmFyLnN2ZyJ9:frontify:si0U7i3iQVSP7ajbwZHwEH_gdij1YOGZHyJqLQxyPFk?width=2400"
-    alt="American Flag"
-    width="180"
-    style="border-radius:50px; border:3px solid #8B5CF6;"
-  />
-</div>
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=260&lines=United+States"
-  alt="United States"
-/>
-
 # ENG. DELBLER FERRERO MORGAN
 
-### ENGINEERING × TECHNOLOGY × AUTOMATION × DATA
+<div align="center">
+
+### ENGINEERING • TECHNOLOGY • AUTOMATION • DATA • AI
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=C4B5FD&center=true&vCenter=true&width=750&lines=Engineering+%2B+Technology;Automation+%2B+Data;AI+%2B+Software+Solutions;Building+Technical+Solutions"
-  alt="Professional Focus"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1400&color=A78BFA&center=true&vCenter=true&width=800&lines=Engineering+%2B+Technology;Automation+%2B+Data;AI+%2B+Software+Solutions;Technical+Engineering+Solutions"
+  alt="Engineering and Technology Focus"
 />
 
 <br>
 
-<img src="https://img.shields.io/badge/ENGINEERING-0B0B0F?style=for-the-badge&logo=blueprint&logoColor=A78BFA">
-<img src="https://img.shields.io/badge/TECHNOLOGY-18151F?style=for-the-badge&logo=github&logoColor=C4B5FD">
-<img src="https://img.shields.io/badge/AUTOMATION-241B2F?style=for-the-badge&logo=robotframework&logoColor=A78BFA">
-<img src="https://img.shields.io/badge/DATA%20%26%20AI-302044?style=for-the-badge&logo=openai&logoColor=C4B5FD">
+<img src="https://img.shields.io/badge/ENGINEERING-0B0B0F?style=for-the-badge&logo=blueprint&logoColor=A78BFA" alt="Engineering">
+<img src="https://img.shields.io/badge/TECHNOLOGY-18151F?style=for-the-badge&logo=github&logoColor=C4B5FD" alt="Technology">
+<img src="https://img.shields.io/badge/AUTOMATION-241B2F?style=for-the-badge&logo=robotframework&logoColor=A78BFA" alt="Automation">
+<img src="https://img.shields.io/badge/DATA%20%26%20AI-302044?style=for-the-badge&logo=openai&logoColor=C4B5FD" alt="Data and AI">
 
 <br><br>
 
 <a href="https://github.com/delblerferreromorgan">
-<img src="https://img.shields.io/badge/GitHub-0B0B0F?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-0B0B0F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <a href="https://www.linkedin.com/in/delbler-ferrero-morgan-adminsitrator/">
-<img src="https://img.shields.io/badge/LinkedIn-241B2F?style=for-the-badge&logo=linkedin&logoColor=C4B5FD">
+  <img src="https://img.shields.io/badge/LinkedIn-241B2F?style=for-the-badge&logo=linkedin&logoColor=C4B5FD" alt="LinkedIn">
 </a>
 
 <a href="https://beacons.ai/delblerferreromorgan">
-<img src="https://img.shields.io/badge/Portfolio-302044?style=for-the-badge&logo=googlechrome&logoColor=C4B5FD">
+  <img src="https://img.shields.io/badge/Portfolio-302044?style=for-the-badge&logo=googlechrome&logoColor=C4B5FD" alt="Portfolio">
 </a>
 
 </div>
 
 ---
-<td width="50%" align="center" valign="middle">
-
-<div align="center" style="
-  background:#050505;
-  border:1px solid #8b5cf6;
-  border-radius:16px;
-  padding:24px;
-  box-shadow:0 0 20px rgba(139,92,246,.35);
-">
-
-<h3 align="center">🏭 ENGINEERING</h3>
-
-<div align="center">
-
-⚙️ Production &nbsp; • &nbsp; 🔧 Mechanical
-
-⚡ Electrical &nbsp; • &nbsp; 📐 Projects
-
-🏭 Operations &nbsp; • &nbsp; 📊 Optimization
-
-</div>
-
-</div>
-
-</td>
-
-<div align="center">
 
 ## ⚡ EXECUTIVE PROFILE
 
+<div align="center">
+
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Engineering+%7C+Software+%7C+Automation+%7C+Data+%7C+AI"
-alt="Executive Profile"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=A78BFA&center=true&vCenter=true&width=850&lines=Engineering+%7C+Software+%7C+Automation+%7C+Data+%7C+AI"
+  alt="Executive Profile"
 />
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🏭 ENGINEERING
+
+**Engineering & Technical Systems**
+
+- ⚙️ Production Engineering
+- 🔧 Mechanical Engineering
+- ⚡ Electrical Engineering
+- 📐 Engineering Projects
+- 🏭 Industrial Operations
+- 📊 Process Optimization
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💻 TECHNOLOGY
+
+**Digital & Intelligent Solutions**
+
+- 🤖 Automation
+- 🧠 Artificial Intelligence
+- 📈 Data Analysis
+- 💻 Software Development
+- 🔬 Computational Solutions
+- 🚀 Technical Innovation
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
-### 📊 Development Statistics
+## 🎯 PROFESSIONAL FOCUS
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=delblerferreromorgan&theme=radical" width="100%" alt="GitHub Profile Details">
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=delblerferreromorgan&theme=radical" width="49%" alt="Repositories per Language">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=delblerferreromorgan&theme=radical" width="49%" alt="Most Commit Language">
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=delblerferreromorgan&theme=radical" width="49%" alt="GitHub Statistics">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=delblerferreromorgan&theme=radical" width="49%" alt="Productive Time">
+| ENGINEERING | TECHNOLOGY | INTELLIGENCE |
+|:---:|:---:|:---:|
+| ⚙️ Engineering Systems | 💻 Software | 🧠 Artificial Intelligence |
+| 🏭 Industrial Operations | 🤖 Automation | 📊 Data & Analytics |
+| 📐 Projects | 🔧 Digital Solutions | 🔬 Computational Methods |
+| 📈 Optimization | 🚀 Technology | 📊 Decision Support |
 
 </div>
 
 ---
 
-# 🎓 ACADEMIC TIMELINE
+## 🧩 ENGINEERING × TECHNOLOGY
 
-```mermaid
-gantt
-    title Engineering & Technology Development
-    dateFormat YYYY-MM-DD
-    axisFormat %Y
+<div align="center">
 
-    section Engineering
-    Production Engineering     :done, prod, 2023-06-01, 2026-03-04
-    Mechanical Engineering    :active, mech, 2023-01-06, 2028-02-06
-    Materials Engineering     :active, mat, 2023-06-06, 2028-06-06
-    Electrical Engineering    :active, elec, 2025-03-10, 2028-04-10
+> **Engineering knowledge combined with software, automation, data and artificial intelligence to develop practical technical solutions.**
 
-    section Technology
-    Software Engineering      :active, soft, 2025-03-10, 2028-04-10
-    Machine Learning          :active, ml, 2026-01-01, 2026-12-31
-    Automation & Data         :active, auto, 2026-03-01, 2027-12-31
+<br>
+
+**ENGINEERING**
+
+⚙️ Production  
+🔧 Mechanical  
+⚡ Electrical  
+📐 Projects  
+🏭 Operations  
+
+⬇️
+
+**TECHNOLOGY**
+
+💻 Software  
+🤖 Automation  
+📊 Data  
+🧠 AI  
+🔬 Computational Methods  
+
+⬇️
+
+**RESULT**
+
+### 🚀 TECHNICAL • INTELLIGENT • DATA-DRIVEN SOLUTIONS
+
+</div>
+
+---
+
+## 📊 DEVELOPMENT STATISTICS
+
+<div align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=delblerferreromorgan&theme=radical"
+  width="100%"
+  alt="GitHub Profile Details"
+/>
+
+<br><br>
+
+<table>
+<tr>
+
+<td width="50%">
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=delblerferreromorgan&theme=radical"
+  width="100%"
+  alt="Repositories per Language"
+/>
+</td>
+
+<td width="50%">
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=delblerferreromorgan&theme=radical"
+  width="100%"
+  alt="Most Commit Language"
+/>
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=delblerferreromorgan&theme=radical"
+  width="100%"
+  alt="GitHub Statistics"
+/>
+</td>
+
+<td width="50%">
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=delblerferreromorgan&theme=radical"
+  width="100%"
+  alt="Productive Time"
+/>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🛠️ TECHNOLOGY STACK
+
+<div align="center">
+
+### Engineering
+
+<img src="https://img.shields.io/badge/Production%20Engineering-0B0B0F?style=flat-square&logoColor=A78BFA">
+<img src="https://img.shields.io/badge/Mechanical%20Engineering-18151F?style=flat-square&logoColor=A78BFA">
+<img src="https://img.shields.io/badge/Electrical%20Engineering-241B2F?style=flat-square&logoColor=A78BFA">
+<img src="https://img.shields.io/badge/Project%20Management-302044?style=flat-square&logoColor=C4B5FD">
+
+<br><br>
+
+### Technology
+
+<img src="https://img.shields.io/badge/Python-0B0B0F?style=flat-square&logo=python&logoColor=A78BFA">
+<img src="https://img.shields.io/badge/JavaScript-18151F?style=flat-square&logo=javascript&logoColor=C4B5FD">
+<img src="https://img.shields.io/badge/HTML5-241B2F?style=flat-square&logo=html5&logoColor=A78BFA">
+<img src="https://img.shields.io/badge/CSS3-302044?style=flat-square&logo=css3&logoColor=C4B5FD">
+
+<br><br>
+
+### Data & AI
+
+<img src="https://img.shields.io/badge/Data%20Analysis-0B0B0F?style=flat-square&logo=pandas&logoColor=A78BFA">
+<img src="https://img.shields.io/badge/Machine%20Learning-18151F?style=flat-square&logo=tensorflow&logoColor=C4B5FD">
+<img src="https://img.shields.io/badge/Computer%20Vision-241B2F?style=flat-square&logo=opencv&logoColor=A78BFA">
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-302044?style=flat-square&logo=openai&logoColor=C4B5FD">
+
+</div>
+
+---
+
+## 🚀 CURRENT DIRECTION
+
+<div align="center">
+
+**ENGINEERING**
+
+↓
+
+**AUTOMATION**
+
+↓
+
+**SOFTWARE**
+
+↓
+
+**DATA**
+
+↓
+
+**ARTIFICIAL INTELLIGENCE**
+
+↓
+
+### INTELLIGENT ENGINEERING SOLUTIONS
+
+</div>
+
+---
+
+<div align="center">
+
+### ENG. DELBLER FERRERO MORGAN
+
+**Engineering • Technology • Automation • Data • AI**
+
+<br>
+
+<a href="https://github.com/delblerferreromorgan">
+  <img src="https://img.shields.io/badge/VIEW%20GITHUB-0B0B0F?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub">
+</a>
+
+</div>
 
