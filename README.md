@@ -3,18 +3,18 @@
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=800&lines=ENGINEERING+%7C+TECHNOLOGY+%7C+AUTOMATION+%7C+DATA+%7C+AI"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=800&lines=ENGINEERING+%7C+TECHNOLOGY+%7C+AUTOMATION+%7C+DATA+%7C+AI"
   alt="Engineering Technology Automation Data AI"
 />
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/ENGINEERING-0B0B0F?style=for-the-badge&logoColor=A78BFA" alt="Engineering">
 <img src="https://img.shields.io/badge/TECHNOLOGY-18151F?style=for-the-badge&logo=github&logoColor=C4B5FD" alt="Technology">
 <img src="https://img.shields.io/badge/AUTOMATION-241B2F?style=for-the-badge&logo=robotframework&logoColor=A78BFA" alt="Automation">
 <img src="https://img.shields.io/badge/DATA%20%26%20AI-302044?style=for-the-badge&logo=openai&logoColor=C4B5FD" alt="Data and AI">
 
-<br><br>
+<br>
 
 <a href="https://github.com/delblerferreromorgan">
 <img src="https://img.shields.io/badge/GITHUB-0B0B0F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -29,7 +29,7 @@
 </a>
 
 </div>
-
+aquiiii
 ---
 <div align="center">
 
