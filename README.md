@@ -124,11 +124,23 @@
 
 ---
 
-<div align="center">
+# 🎓 ACADEMIC TIMELINE
 
-<a href="https://github.com/delblerferreromorgan">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-A78BFA?style=for-the-badge&logo=github&logoColor=0B0B0F" alt="Explore Projects">
-</a>
+```mermaid
+gantt
+    title Engineering & Technology Development
+    dateFormat YYYY-MM-DD
+    axisFormat %Y
 
-</div>
+    section Engineering
+    Production Engineering     :done, prod, 2023-06-01, 2026-03-04
+    Mechanical Engineering    :active, mech, 2023-01-06, 2028-02-06
+    Materials Engineering     :active, mat, 2023-06-06, 2028-06-06
+    Electrical Engineering    :active, elec, 2025-03-10, 2028-04-10
+
+    section Technology
+    Software Engineering      :active, soft, 2025-03-10, 2028-04-10
+    Machine Learning          :active, ml, 2026-01-01, 2026-12-31
+    Automation & Data         :active, auto, 2026-03-01, 2027-12-31
+
 
