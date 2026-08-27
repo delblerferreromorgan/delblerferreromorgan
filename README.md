@@ -41,28 +41,30 @@
   background-color:#0B0B0F;
   border:2px solid #8B5CF6;
   border-radius:18px;
-  padding:22px;
+  padding:28px;
 ">
 
 <h3 style="color:#A78BFA;">
-🏭 ENGINEERING
+👤 PROFESSIONAL PROFILE
 </h3>
-
-<p style="color:#9F8AC7; font-size:16px; line-height:2;">
-
-⚙️ <b>Production</b>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-🔧 <b>Mechanical</b>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-⚡ <b>Electrical</b>
 
 <br>
 
-📐 <b>Projects</b>
+<p style="color:#9F8AC7; font-size:16px; line-height:2;">
+
+⚙️ <b>Production & Project Engineer</b>
 &nbsp;&nbsp;•&nbsp;&nbsp;
-🏭 <b>Operations</b>
+💼 <b>Executive Finance Administrator</b>
+
+<br>
+
+⚖️ <b>Court-Appointed Expert — TJMG</b>
 &nbsp;&nbsp;•&nbsp;&nbsp;
-📊 <b>Optimization</b>
+🇵🇹 <b>Full Member of OEP — N2</b>
+
+<br>
+
+📍 <b>Southern Region of Lisbon, Portugal</b>
 
 </p>
 
@@ -73,7 +75,7 @@
 </table>
 
 </div>
----
+
 <div align="center">
 
 ### 📊 Development Statistics
